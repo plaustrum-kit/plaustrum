@@ -1,0 +1,9 @@
+{
+    "name": "@plaustrum-kit/site",
+    "version": "0.0.1",
+    "module": "src/index.ts",
+    "type": "module",
+    "dependencies": {
+        "bun-types": "latest"
+    }
+}
